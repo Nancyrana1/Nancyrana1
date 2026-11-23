@@ -1,18 +1,56 @@
-# 💫 About Me:
-Hii There, I am Nancy  : <br>🎓 Computer Science Student at MSIT (Maharaja Surajmal Institute of Technology) <br>📊 Aspiring Data Analyst – passionate about extracting insights from data <br>🐍 Proficient in Python with libraries: <br>🧮 NumPy, Pandas – data manipulation & analysis <br>📊 Matplotlib, Seaborn – data visualization <br>🤖 Scikit-learn – for basic machine learning workflows<br> 💻 Frontend Developer: 🌐 HTML, CSS, JavaScript, React.js, Tailwind CSS <br>🧠 Strong at Data Structures & Algorithms in C/C++ (STL + Problem Solving)<br> 📈 Keen on merging analytics with web development for data-driven apps <br>📚 Always learning – exploring SQL, Power BI, and EDA best practices
+# Nancy Rana
 
+### Computer Science Student | Python Developer | Data Analytics & Machine Learning
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nancy-rana-2441942a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nancyrana0341@gmail.com) 
+I’m a Computer Science student at **Maharaja Surajmal Institute of Technology (MSIT)** interested in building practical software and data-driven applications. I work across Python-based data analysis and machine learning, full-stack web development, and problem solving with C/C++.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nancyrana1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nancyrana1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nancyrana1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy turning ideas into usable projects, exploring patterns in data, and continuously strengthening my engineering fundamentals.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nancyrana1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [Student Stress Predictor](https://github.com/Nancyrana1/student-stress-predictor) | Student well-being application with a prediction API, lifestyle insights, and a personal journal | Python, Streamlit, FastAPI, scikit-learn |
+| [Customer Segmentation](https://github.com/Nancyrana1/Customer-Segmentation-ML) | K-Means clustering workflow with a Flask interface for exploring customer segments | Python, Pandas, NumPy, scikit-learn, Flask |
+| [Movie Review Prediction](https://github.com/Nancyrana1/Movie-Review-Prediction) | Text sentiment classification using TF-IDF features and machine-learning models | Python, Pandas, scikit-learn, NLP |
+| [My Portfolio](https://github.com/Nancyrana1/MY-PORTFOLIO) | Personal portfolio built with a modern component-based frontend | React, TypeScript, Vite, Tailwind CSS, Supabase |
+| [TravelEase](https://github.com/Nancyrana1/TravelEase) | Travel-focused web application exploring destinations and travel-planning features | HTML, CSS, JavaScript, Firebase |
+| [Scikit-Learn Projects](https://github.com/Nancyrana1/ScikitLearn-Projects) | Hands-on notebooks covering preprocessing, feature engineering, pipelines, model selection, and EDA | Python, Pandas, NumPy, scikit-learn |
+
+---
+
+## Technical Skills
+
+**Programming:** Python, C, C++, JavaScript
+
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, exploratory data analysis
+
+**Machine Learning:** scikit-learn, classification, clustering, feature engineering, model evaluation, TF-IDF
+
+**Web Development:** HTML5, CSS3, React, TypeScript, Tailwind CSS, Flask, Streamlit, FastAPI
+
+**Databases & Tools:** MySQL, MongoDB, Firebase, Supabase, Git, GitHub, Jupyter Notebook
+
+---
+
+## Currently Focusing On
+
+- Strengthening data structures, algorithms, and problem-solving skills
+- Building reliable Python applications and machine-learning workflows
+- Improving SQL, data analysis, and visualization skills
+- Writing cleaner, maintainable code and documenting projects clearly
+
+---
+
+## Connect
+
+- **LinkedIn:** [Nancy Rana](https://www.linkedin.com/in/nancy-rana-2441942a4/)
+- **Portfolio:** [View my portfolio](https://portfolio-nancyrana1s-projects.vercel.app/)
+- **Email:** [nancyrana0341@gmail.com](mailto:nancyrana0341@gmail.com)
+- **GitHub:** [@Nancyrana1](https://github.com/Nancyrana1)
+
+---
+
+*Thanks for visiting my profile. I’m always learning, building, and looking for opportunities to grow as a developer.*
